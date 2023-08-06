@@ -1,6 +1,6 @@
 # web_project1
 
-irst web project
+First web project
 
 ## Getting Started
 
